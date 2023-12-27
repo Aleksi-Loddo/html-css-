@@ -1,0 +1,31 @@
+h1{
+    color: darkblue;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
+#my_div1{
+    background-color: aqua;
+}
+#my_div2{
+    background-color: chartreuse;
+}
+#my_span1{
+    color: blueviolet;
+}
+#my_span2{
+    color: darkgreen;
+}
+#my_span3{
+    color: brown;
+}
+.my_class1{
+    background-color: aquamarine;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,25 @@
+#header{
+    background-color: aqua;
+}
+#menu{
+    margin-top: 20px;
+    background-color: rgb(121, 121, 233);
+    float: left;
+    width: 150px;
+
+}
+#menu ul li{
+    list-style-type: none;
+}
+#menu ul li a:hover{
+    background-color: white;
+}
+#container{
+    background-color: cornflowerblue;
+    margin-left: 160px; 
+    padding: 20px; 
+}
+#footer{
+    background-color: lightgray;
+    border-style: solid;
+}
